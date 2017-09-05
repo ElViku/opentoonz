@@ -217,7 +217,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     </message>
     <message>
         <source>&amp;Open Subxsheet</source>
-        <translation>&amp;Abrir sub-planilla</translation>
+        <translation>&amp;Abrir sub-plantilla</translation>
     </message>
 </context>
 <context>
@@ -259,7 +259,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     </message>
     <message>
         <source>Color Thres</source>
-        <translation>Umbral color</translation>
+        <translation>Umbral de color</translation>
     </message>
     <message>
         <source>White Thres</source>
@@ -311,7 +311,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     <name>DVGui::ProgressDialog</name>
     <message>
         <source>Toonz</source>
-        <translation>OpenToonz</translation>
+        <translation>Toonz</translation>
     </message>
     <message>
         <source>OpenToonz</source>
@@ -396,7 +396,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     <name>FileSegmentPage</name>
     <message>
         <source>File Path:</source>
-        <translation>Ruta al archivo:</translation>
+        <translation>Ruta del archivo:</translation>
     </message>
     <message>
         <source>Column:</source>
@@ -404,7 +404,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     </message>
     <message>
         <source>Unit:</source>
-        <translation>Unidades:</translation>
+        <translation>Unidad:</translation>
     </message>
 </context>
 <context>
@@ -443,7 +443,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     </message>
     <message>
         <source>Set Key</source>
-        <translation>Definir clave</translation>
+        <translation>Definir Fotograma Clave</translation>
     </message>
     <message>
         <source>Histogram</source>
@@ -451,7 +451,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     </message>
     <message>
         <source>&amp;Save Images</source>
-        <translation>Guardar imágene&amp;s</translation>
+        <translation>Guardar imágenes&amp;s</translation>
     </message>
     <message>
         <source>&amp;Snapshot</source>
@@ -475,7 +475,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     </message>
     <message>
         <source>&amp;Checkered Background</source>
-        <translation>Fondo con &amp;damero</translation>
+        <translation>Fondo de &amp;cuadros</translation>
     </message>
     <message>
         <source>Set the playback frame rate</source>
@@ -559,7 +559,7 @@ Es posible que el archivo de dicho ajuste se encuentre corrupto.</translation>
     </message>
     <message>
         <source>Drag to play the animation</source>
-        <translation>Arrastrar para reproducir la animación</translation>
+        <translation>Arrastra para reproducir la animación</translation>
     </message>
     <message>
         <source>Define Loading Box</source>
@@ -2247,7 +2247,7 @@ Autom</translation>
     <name>VectorBrushStyleChooserPage</name>
     <message>
         <source>Plain color</source>
-        <translation>Color pleno</translation>
+        <translation>Color plano</translation>
     </message>
 </context>
 </TS>
